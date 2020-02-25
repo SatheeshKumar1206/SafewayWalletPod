@@ -1,0 +1,16 @@
+PODS:
+  - SafewayWalletPod (0.1.0)
+
+DEPENDENCIES:
+  - SafewayWalletPod (from `../`)
+
+EXTERNAL SOURCES:
+  SafewayWalletPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SafewayWalletPod: 688770f849c2b1f110073c4023d2043d318bee95
+
+PODFILE CHECKSUM: f36de361dee299e8245c26514ecfad5e4564d315
+
+COCOAPODS: 1.8.4

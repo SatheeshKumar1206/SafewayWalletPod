@@ -1,0 +1,6 @@
+framework module SafewayWalletPod {
+  umbrella header "SafewayWalletPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
