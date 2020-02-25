@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SafewayWalletPod_Example' do
+  pod 'SafewayWalletPod', :path => '../'
+
+  target 'SafewayWalletPod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
