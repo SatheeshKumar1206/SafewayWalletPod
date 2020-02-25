@@ -1,7 +1,8 @@
 use_frameworks!
 
 target 'SafewayWalletPod_Example' do
-  pod 'SafewayWalletPod', :path => '../'
+  pod 'SafewayWalletPod', :path => 'https://github.com/SatheeshKumar1206/SafewayWalletPod.git
+'
 
   target 'SafewayWalletPod_Tests' do
     inherit! :search_paths

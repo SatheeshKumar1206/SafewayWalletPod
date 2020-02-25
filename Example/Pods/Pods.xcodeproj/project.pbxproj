@@ -13,6 +13,7 @@
 		78C63FA0BF1BBF3081184413761D2E67 /* Pods-SafewayWalletPod_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EA305EE5481F0AB95C68185FE447E235 /* Pods-SafewayWalletPod_Example-dummy.m */; };
 		7E795FD697033C76A02264751C14B248 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		80724F3C2404FD0D004A655D /* SFTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80724F3B2404FD0D004A655D /* SFTest.swift */; };
+		80724F3D2405077E004A655D /* SafewayWalletPod.podspec in Resources */ = {isa = PBXBuildFile; fileRef = EBC944C839FC35C34B48275EA1AB7F4E /* SafewayWalletPod.podspec */; };
 		950DB542C9A5BB5F8B701566C32C8C2C /* SafewayWalletPod-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 04E9FCAF67A0F0AF563027925FE8FA36 /* SafewayWalletPod-dummy.m */; };
 		AA3994FBB3D96C8302E1A9C600B09655 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		CB6ACFB7AE4A2F6A4024DC9B3A150AD3 /* SafewayWalletPod-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A5673D67792121D10CF4BC0842F779C /* SafewayWalletPod-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -363,6 +364,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				80724F3D2405077E004A655D /* SafewayWalletPod.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
